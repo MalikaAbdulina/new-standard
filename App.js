@@ -10,7 +10,7 @@ function HomeScreen({ navigation }) {
   
   return (
     <View style={styles.container}>
-          <ImageBackground style={styles.image} source={{uri: 'https://picsum.photos/id/38/200/300'}}>
+          <ImageBackground style={styles.image} source={{uri: 'https://images.unsplash.com/photo-1596612265825-f7d7506ae4ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1868&q=80'}}>
       <Text style={{fontSize: 30, color: 'white'}}>The New Standard</Text>
       <View style={styles.buttonContainer}>
       <Button

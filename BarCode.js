@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Text, SafeAreaView, StyleSheet, Button, Alert } from 'react-native';
+import { Text, SafeAreaView, StyleSheet, Button, Alert} from 'react-native';
 import { BarCodeScanner } from 'expo-barcode-scanner';
 
 export default function BarCode({ navigation }) {
@@ -37,8 +37,8 @@ export default function BarCode({ navigation }) {
         onBarCodeScanned={scanned ? undefined : handleBarCodeScanned}
         style={StyleSheet.absoluteFillObject}
       />
-      {scanned && <Button title={'Tap to Scan Again'} onPress={() => setScanned(false)} />}
-      <Button style={styles.button} title="Back" onPress={() => navigation.goBack()} />
+      {scanned && <Button color='white' title={'Tap to Scan Again'} onPress={() => setScanned(false)} />}
+      <Button color='white' title="Back" onPress={() => navigation.goBack()} />
     </SafeAreaView>
   );
 }
@@ -48,8 +48,5 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'column',
     justifyContent: 'flex-end',
-  },
-  button: {
-    color: 'white'
   }
 });

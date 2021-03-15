@@ -23,11 +23,7 @@ export default function DecodeScreen({route, navigation}){
     if (harmfulAdditives === 'No harmful ingredients found!') {
       return <Text style={{color: 'green', fontSize: 16}}>{harmfulAdditives}</Text>
     } else {
-      return <Text style={styles.container}><Text style={{color: 'blue', textDecorationLine: 'underline', fontSize:16}} onPress={() => navigation.navigate('Explanation',  {harmfulAdditives: harmfulAdditives})}> - {harmfulAdditives} {'\n'}</Text>
-      <Text style={styles.red}>
-        {'\n'}
-      Best to avoid
-    </Text>
+      return <Text style={styles.container}><Text style={{color: 'blue', textDecorationLine: 'underline', fontSize:16}} onPress={() => navigation.navigate('Explanation',  {harmfulAdditives: harmfulAdditives})}>  {harmfulAdditives} {'\n'}</Text>
     </Text>
     }
   }
