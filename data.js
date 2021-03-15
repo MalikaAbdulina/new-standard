@@ -4,7 +4,9 @@ UPC: '0381371175017',
 imageURL: 'https://www.johnsonsbaby.com/sites/jbaby_us_3/files/styles/jjbos_adaptive_images_generic-tablet/public/product-images/jns_381371175024_600ml_00000_1000wx1000h.jpeg',
 ingredients: 'Water, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate, Lauryl Glucoside, PEG-80 Sorbitan Laurate, Glycerin, Citric Acid, Sodium Benzoate, PEG-150 Distearate, Sodium Methyl Cocoyl Taurate, Fragrance, Polyquaternium-10, Disodium EDTA'},
 {name: 'Cetaphil Baby Gentle Wash and Shampoo',
-UPC: '0799457786215',
+// UPC: '0799457786215',
+UPC: '0012044038918',
+
 imageURL: 'https://www.cetaphil.com/us/sites/g/files/jcdfhc581/files/styles/cp_product_medium/public/09%20-%20Cetaphil%20Baby%20Wash%20_%20Shampoo%20Calendula%20-%20FRONT.jpg?itok=9ih1q8aC',
 ingredients: 'Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glycerin, Panthenol (Vitamin B5), PEG-120 Methyl Glucose Dioleate, Glycol Distearate, Hydrolyzed Wheat Protein, Calendula Officinalis Flower Extract, Aloe Barbadensis Leaf Juice Powder, Fragrance, Citric Acid, Sodium Benzoate, Phenoxyethanol, Sodium Citrate, Laureth-4, Heliotropine, Polyquaternium-10, Sodium Chloride, Sodium Hydroxide, Tocopherol (Vitamin E)'},
 {name: 'Mustela Gentle Baby Shampoo and Detangler - 6.76 fl oz',
@@ -20,8 +22,7 @@ UPC: '0899646000884',
 imageURL: 'https://images-na.ssl-images-amazon.com/images/I/61X5zdSvlKL._SL1500_.jpg',
 ingredients: 'Water, Cocamidopropyl Hydroxy-Sultaine, Decyl Glucoside, PEG-150 Distearate, Disodium Laureth Sulfosuccinate, Glycerin, Polysorbate 20, Hydrolyzed Casein, Phenoxyethanol, Citric Acid, Disodium EDTA, Ethylhexylglycerin, Sodium Dehydroacetate, Fragrance (Parfum)'},
 {name: 'Sesame Street Extra Gentle Bubble Bath Fragrance and Dye Free 24 Oz',
-// UPC: '0735303280315',
-UPC: '0012044038918',
+UPC: '0735303280315',
 imageURL: 'https://images-na.ssl-images-amazon.com/images/I/71bhSb7WE5L._SL1500_.jpg',
 ingredients: 'Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, PEG-80, Sorbitan Laurate, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, PEG-150 Distearate, Citric Acid, Tetrasodium EDTA, Ethylhexylglycerin, Sodium Benzoate, Phenoxyethanol, Fragrance'},
 {name: 'Aquaphor Baby Wash and Shampoo - Mild, Tear-Free 2-in-1 Solution for Babys Sensitive Skin',
@@ -35,7 +36,7 @@ ingredients: 'Water, Cetyl Palmitate, Glycerin, Mineral Oil, Cetyl Alcohol, Poly
 {name: 'Pampers Expressions Baby Wipes, Fresh Bloom Scented',
 UPC: '037000507123',
 imageURL: 'https://images-na.ssl-images-amazon.com/images/I/71UFY08LyVL._AC_SL1500_.jpg',
-ingredients: 'Water, Citric Acid, Peg-40 Hydrogenated Castor Oil, Sodium Citrate, Sorbitan Caprylate, Sodium Benzoate, Disodium Edta, Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Fragrance/Parfum'}, 
+ingredients: 'Water, Citric Acid, PEG-40 Hydrogenated Castor Oil, Sodium Citrate, Sorbitan Caprylate, Sodium Benzoate, Disodium Edta, Bis-PEG/Ppg-16/16 PEG/Ppg-16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Fragrance/Parfum'}, 
 {name: 'Tom\'s of Maine Natural Children\'s Fluoride Toothpaste, Silly Strawberry',
 UPC: '035000978684',
 imageURL: 'https://www.tomsofmaine.com/content/dam/cp-sites/toms/toms-of-maine/global/products/oral-care/toms-of-maine-childrens-toothpaste-silly-strawberry.png',
@@ -46,9 +47,42 @@ imageURL: 'https://images-na.ssl-images-amazon.com/images/I/71QvN9SvwCL._AC_SL15
 ingredients: 'Water (Aqua), Aloe Barbadensis Leaf Juice, Cocamidopropyl Hydroxysultaine, Sodium Laurylglucosides Hydroxypropylsulfonate, Disodium Cocoyl Glutamate, Sodium Chloride, Sodium Cocoyl Isethionate, Chamomilla Recutita (Matricaria) Flower Extract, Camellia Sinensis Leaf Extract, Cocos Nucifera (Coconut) Fruit Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Tangerina (Tangerine) Peel Extract, Vanilla Planifolia Fruit Extract, Glycerin, Caprylyl Glycol, Panthenol, Guar Hydroxypropyltrimonium Chloride, Caprylhydroxamic Acid, Triethyl Citrate, Trisodium Ethylenediamine Disuccinate, Sodium Benzoate, Sodium PCA, Coconut Acid, Glutamic Acid, Citric Acid, Limonene'}, 
 {name: 'Baby Bum Bubble Bath | Tear Free Foaming Bubble Bath for Sensitive Skin with White Ginger| Natural Fragrance | Gluten Free and Vegan',
 UPC: '871760004870',
-// UPC: '0012044038918',
 imageURL: 'https://images-na.ssl-images-amazon.com/images/I/61A52yqFrmL._SL1500_.jpg',
 ingredients: 'Water, Coco-Glucoside, Glycerin, Disodium Cocoamphodiacetate, Cocamidopropyl Hydroxysultaine, Decyl Glucoside, Glyceryl Oleate, Aloe Barbadensis Leaf Juice, Cucumis Sativus (Cucumber) Fruit Extract, Musa Sapientum (Banana) Fruit Extract, Hedychium Coronarium Root Extract, Gardenia Taitensis Flower Extract, Cocos Nucifera (Coconut) Oil, Sea Salt, Dicaprylyl Ether , Xanthan Gum, Citric Acid, Glyceryl Caprylate, Glyceryl Undecylenate, Sodium Phytate, Sodium Benzoate'}]
 
 
-export const ingredientList = [ 'Sodium Laureth Sulfate', 'SLS', 'PEG', 'xynol', 'ceteareth', 'oleth', 'Benzophenone', 'Oxybenzone', 'Sulisobenzone', 'Sulisobenzone Sodium', 'BP', 'BHA', 'BHT', 'Butylated Hydroxytoluene', 'Butylated Hydroxyanisole', 'Formaldehyde', 'Quaternium-15', 'Diazolidinyl Urea', 'Imidazolidinyl Urea', 'DMDM Hydantoin', '2-Bromo-2-Nitropropane-1','3 Diol', 'Phenacetin', 'Coal Tar', 'Benzene', 'Mineral Oil', 'Ethylene Oxide', 'Chromium', 'Cadmium', 'Arsenic', 'Crystalline Silica', 'Triethanolamine', 'Diethanolamine', 'DEA', 'TEA', 'Cocamide DEA', 'Cocamide MEA', 'DEA-cetyl Phosphate', 'DEA Oleth-3 Phosphate', 'Lauramide DEA', 'Linoleamide MEA', 'Myristamide DEA', 'Oleamide DEA', 'Stearamide MEA', 'TEA-Lauryl Sulfate','PPG', 'PEG', 'Polysorbate', 'laureth', 'steareth', 'ceteareth', 'Polyoxymethylene Urea', 'Sodium Hydroxymethylglycinate', 'Bromopol','Glyoxal', 'Homosalate', 'Homomenthyl salicylate', 'HMS', 'HS', '3,3,5-Trimethyl-Cyclohexyl-Salicylate', 'Lead Acetate', 'Thimerosal', 'Hydrogenated Cotton Seed Oil', 'Sodium Hexametaphosphate', 'Fragrance', 'Parfum']
+export const ingredientList = [ 'Sodium Laureth Sulfate', 'SLS', 'PEG', 'Benzophenone', 'Oxybenzone', 'Sulisobenzone', 'Sulisobenzone Sodium', 'BP', 'BHA', 'BHT', 'Butylated Hydroxytoluene', 'Butylated Hydroxyanisole', 'Formaldehyde', 'Quaternium-15', 'Diazolidinyl Urea', 'Imidazolidinyl Urea', 'DMDM Hydantoin', '2-Bromo-2-Nitropropane-1','3 Diol', 'Phenacetin', 'Coal Tar', 'Benzene', 'Mineral Oil', 'Ethylene Oxide', 'Chromium', 'Cadmium', 'Arsenic', 'Crystalline Silica', 'Triethanolamine', 'Diethanolamine', 'DEA', 'TEA', 'Cocamide DEA', 'Cocamide MEA', 'DEA-cetyl Phosphate', 'DEA Oleth-3 Phosphate', 'Lauramide DEA', 'Linoleamide MEA', 'Myristamide DEA', 'Oleamide DEA', 'Stearamide MEA', 'TEA-Lauryl Sulfate','PPG', 'Polysorbate', 'Polyoxymethylene Urea', 'Sodium Hydroxymethylglycinate', 'Bromopol','Glyoxal', 'Homosalate', 'Homomenthyl Salicylate', 'HMS', 'HS', '3,3,5-Trimethyl-Cyclohexyl-Salicylate', 'Lead Acetate', 'Thimerosal', 'Hydrogenated Cotton Seed Oil', 'Sodium Hexametaphosphate', 'Fragrance', 'Parfum']
+
+export const chemicalGroups = [{
+    name: '1,4-Dioxane',
+    ingredients: 'Sodium Laureth Sulfate, SLS, PEG',
+    chemicals: '1,4-dioxane, a carcinogen linked to organ toxicity, may be found in as many as 22 percent of more than 25,000 cosmetics products, but you won’t find it on ingredient labels. That’s because 1,4-dioxane is a contaminant created when common ingredients react to form the compound when mixed together. Research shows that 1,4-dioxane readily penetrates the skin. 1,4-dioxane is considered a probable human carcinogen by the U.S. Environmental Protection Agency. '
+},
+{   name: 'Benzophenone and Related Compounds',
+    ingredients: 'Benzophenone, Oxybenzone, Sulisobenzone, Sulisobenzone Sodium, BP',
+    chemicals: 'Benzophenone is used in personal care products such as lip balm and nail polish to protect the products from UV light. Derivatives of benzophenone, such as benzophenone-2 (BP2) and oxybenzone (benzophenone-3 or BP3) are common ingredients in sunscreen. Benzophenone is persistent, bioaccumulative and toxic (PBT). These chemicals are linked to cancer, endocrine disruption, and organ system toxicity.'},
+{   name: 'Butylated Compounds',
+    ingredients: 'BHA, BHT, Butylated Hydroxytoluene, Butylated Hydroxyanisole',
+    chemicals: 'Butylated hydroxyanisole (BHA) and butylated hydroxytoluene (BHT) are used as preservatives in a variety of personal care products. Both of these chemicals are also used as preservatives in foods. These chemicals are linked to several health concerns including endocrine disruption and organ-system toxicity.'
+},
+{   name: 'Carcinogens',
+    ingredients: 'Formaldehyde, Quaternium-15, Diazolidinyl Urea, Imidazolidinyl Urea, DMDM Hydantoin, 2-Bromo-2-Nitropropane-1, 3 Diol, Phenacetin, Coal Tar, Benzene, Mineral Oil, Ethylene Oxide, Chromium, Cadmium, Arsenic, Crystalline Silica, Polyoxymethylene Urea, Sodium Hydroxymethylglycinate, Bromopol,Glyoxal',
+    chemicals: 'The laws governing cosmetics and personal care products are so limited that known cancer-causing chemicals, or carcinogens, are legally allowed in personal care products. Some carcinogens, such as formaldehyde and formaldehyde-releasing preservatives, are common in personal care products, while others are less common, but still occasionally present. These chemicals are linked to several health concerns including cancer, endocrine disruption, developmental and reproductive toxicity, bioaccumulation, ecotoxicity.'
+},
+{   name: 'Ethanolamine Compounds',
+    ingredients: 'Triethanolamine, Diethanolamine, DEA, TEA, Cocamide DEA, Cocamide MEA, DEA-cetyl Phosphate, DEA Oleth-3 Phosphate, Lauramide DEA, Linoleamide MEA, Myristamide DEA, Oleamide DEA, Stearamide MEA, TEA-Lauryl Sulfate',
+    chemicals: 'Ethanolamines are present in many consumer products ranging from cosmetics, personal care products and household cleaning products. Both have been linked to liver tumors. The European Commission prohibits diethanolamine (DEA) in cosmetics, to reduce contamination from carcinogenic nitrosamines.'
+},
+{   name: 'Fragrance',
+    ingredients: 'Fragrance, Parfum',
+    chemicals: 'Many products list “fragrance” on the label, but very few name the specific ingredients that make up a “fragrance.” This lack of disclosure prevents consumers from knowing the full list of ingredients in their products. While most fragrance chemicals are not disclosed, we do know that some are linked to serious health problems such as cancer, reproductive and developmental toxicity, allergies and sensitivities. Clearly, there is a need for stronger regulations, more research, and greater transparency.'},
+{   name: 'Homosalates',
+    ingredients: 'Homosalate, Homomenthyl Salicylate, HMS, HS, 3,3,5-Trimethyl-Cyclohexyl-Salicylate',
+    chemicals: 'Homosalate is a widely used chemical in sunscreens and skin care products with SPF. Homosalate is a potential endocrine disruptor and studies in cells suggest it may impact hormones. In addition to direct health concerns following homosalate exposure, the chemical may also enhance the absorption of pesticides in the body.'},
+{   name: 'Ethoxylated Ingredients',
+    ingredients: 'PPG, Polysorbate, PEG',
+    chemicals: 'Ethoxylation is the process of reacting ethylene oxide with other chemicals to make them less harsh. Ethoxylation can create small amounts of 1,4-dioxane and leave residual ethylene oxide in the product. This manufacturing process can result in two toxic contaminants linked to breast cancer and other cancers: ethylene oxide and 1,4-dioxane.'}, 
+{   name: 'Lead and Other Heavy Metals',
+    ingredients: 'Lead Acetate, Thimerosal, Hydrogenated Cotton Seed Oil, Sodium Hexametaphosphate',
+    chemicals: 'Ethoxylation is the process of reacting ethylene oxide with other chemicals to make them less harsh. Ethoxylation can create small amounts of 1,4-dioxane and leave residual ethylene oxide in the product. This manufacturing process can result in two toxic contaminants linked to breast cancer and other cancers: ethylene oxide and 1,4-dioxane.'},
+]
